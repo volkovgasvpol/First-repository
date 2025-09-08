@@ -2,3 +2,7 @@ Bengoleng  normalny paren
 on voobsche krutoi 
 obesyanchik vot takoi
 veseliy zolotoy
+<<<<<<< HEAD
+=======
+some shit
+>>>>>>> 4b052cbfdabd57add1a074513bafed05d648e5b9
