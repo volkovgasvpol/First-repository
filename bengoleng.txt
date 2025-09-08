@@ -8,6 +8,3 @@ inogda nemnozhko zloi
 no s dushevnoi krasotoy
 i konechno zlit on papi
 poluchaet redko on po sraki
----------------------------
-branch feature
-one more lane for the song
